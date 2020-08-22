@@ -6,4 +6,4 @@
 
 # Comment
 
-- This is a modified version of the [Open-Face Implementation0(https://cmusatyalab.github.io/openface/) that can be used with custom data sets.
+- This is a modified version of the [Open-Face Implementation](https://cmusatyalab.github.io/openface/) that can be used with custom data sets.
